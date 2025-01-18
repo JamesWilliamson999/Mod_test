@@ -22,7 +22,7 @@ public class Mod_test {
     public static final String MOD_ID = "mod_1";
     // Directly reference a slf4j logger
     public static final Logger LOGGER = LogUtils.getLogger();
-    // Create a Deferred Register to hold Blocks which will all be registered under the "examplemod" namespace
+    // hi Create a Deferred Register to hold Blocks which will all be registered under the "examplemod" namespace
 
 
     public Mod_test()
