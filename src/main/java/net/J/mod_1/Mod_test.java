@@ -52,6 +52,9 @@ public class Mod_test {
         if(event.getTabKey()== CreativeModeTabs.INGREDIENTS){
             event.accept(ModItems.COPE);
             event.accept(ModItems.TIN);
+            event.accept(ModItems.TIN_INGOT);
+            event.accept(ModItems.STEEL_INGOT);
+            event.accept(ModItems.BRONZE_INGOT);
         }
     }
 

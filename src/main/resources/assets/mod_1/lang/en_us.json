@@ -1,4 +1,7 @@
 {
   "item.mod_1.cope": "Cope",
-  "item.mod_1.tin": "Tin"
+  "item.mod_1.tin": "Tin",
+  "item.mod_1.tin_ingot": "Tin Ingot",
+  "item.mod_1.steel_ingot": "Steel Ingot",
+  "item.mod_1.bronze_ingot": "Bronze Ingot"
 }
