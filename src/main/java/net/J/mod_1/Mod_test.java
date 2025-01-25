@@ -55,6 +55,10 @@ public class Mod_test {
             event.accept(ModItems.TIN_INGOT);
             event.accept(ModItems.STEEL_INGOT);
             event.accept(ModItems.BRONZE_INGOT);
+            event.accept(ModItems.RAW_TIN);
+            event.accept(ModItems.STEEL_PICKAXE);
+            event.accept(ModItems.BRONZE_PICKAXE);
+            event.accept(ModItems.COPPER_PICKAXE);
         }
     }
 
